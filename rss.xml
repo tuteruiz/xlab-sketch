@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>xLab Library</title>
+    <description>Libreria de Sketch para el xLab donde vamos a poder encontrar estilos que nos van a servir para cualquier template, iconos y componentes del Cookbook.</description>
+    <link>https://github.com/tuteruiz/xlab-sketch</link>
+    <image>
+      <title>xLab Library</title>
+    </image>
+    <generator>Sketch</generator>
+    <item>
+      <title>xLab Library</title>
+      <pubDate>Wen, 12 Feb 2020 15:26:19 GMT</pubDate>
+      <link>https://github.com/tuteruiz/xlab-sketch</link>
+      <enclosure url="https://github.com/tuteruiz/xlab-sketch/blob/master/xLab%20Libreria.sketch" type="application/octet-stream" sparkle:version="1.4.0"/>
+    </item>
+  </channel>
+</rss>
